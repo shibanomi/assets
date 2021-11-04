@@ -1,0 +1,9 @@
+    "name": "Shibanomi",
+    "website": "https://www.shibanomitoken.com/",
+    "description": "BUSD is a stablecoin issued by Paxos in partnership with Binance.",
+    "explorer": "https://bscscan.com/address/0x0c251e67d41efc33a9d3264a5492f63f743ca87c",
+    "type": "BEP20",
+    "symbol": "SHIO",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x0c251e67d41efc33a9d3264a5492f63f743ca87c"
